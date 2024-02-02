@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<parameter name="Tree" value="naveena03@gmail.com"></parameter>
+<parameter name="Car" value="nav9525"></parameter>
+  <test name="Test1">
+    <classes>
+      <class name="org.testing.TestNGTask14"/>
+    </classes>
+  </test> 
+  <parameter name="Bus" value="manjula95@gmail.com"></parameter>
+<parameter name="Track" value="maju3524"></parameter>
+  <test name="Test2">
+    <classes>
+      <class name="org.testing.TestNGTask14"/>
+    </classes>
+  </test> 
+</suite> 
